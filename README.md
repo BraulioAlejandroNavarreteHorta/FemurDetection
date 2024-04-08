@@ -29,3 +29,8 @@ The notebooks contain code cells that can be run to perform specific image proce
 - The educators and students who will benefit from these image processing exercises.
 
 Embark on a journey of learning and discovery with this Image Processing Project!
+
+
+RESULTS:
+
+![image](https://github.com/BraulioAlejandroNavarreteHorta/FemurDetection/assets/133619100/1516a7ee-53a2-4e55-8afe-b742107c377c)
